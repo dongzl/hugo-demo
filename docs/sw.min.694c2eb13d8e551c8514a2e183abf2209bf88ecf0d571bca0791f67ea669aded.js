@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/hugo-demo/sw.js",{scope:"/hugo-demo/"});}

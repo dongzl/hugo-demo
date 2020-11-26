@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dongzl.github.io/hugo-demo/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongzl.github.io/hugo-demo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongzl.github.io/hugo-demo/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://dongzl.github.io/hugo-demo/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongzl.github.io/hugo-demo/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongzl.github.io/hugo-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongzl.github.io/hugo-demo/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://dongzl.github.io/hugo-demo/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongzl.github.io/hugo-demo/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongzl.github.io/hugo-demo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongzl.github.io/hugo-demo/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://dongzl.github.io/hugo-demo/ru/tags/"
+                />
+  </url>
+  
+</urlset>

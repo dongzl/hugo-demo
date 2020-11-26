@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Hugo Book",
+  "short_name": "Hugo Book",
   "start_url": "/hugo-demo/",
   "scope": "/hugo-demo/",
   "display": "standalone",
