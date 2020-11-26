@@ -1,3 +1,2 @@
-baseURL = "https://dongzl.github.io/hugo-demo/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "ananke"
+baseURL = "https://dongzl.github.io/hugo-demo"
